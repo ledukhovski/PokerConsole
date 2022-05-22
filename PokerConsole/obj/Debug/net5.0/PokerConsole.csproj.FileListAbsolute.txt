@@ -1,0 +1,16 @@
+C:\Users\serge\OneDrive\Документы\PokerConsole\PokerConsole\bin\Debug\net5.0\PokerConsole.exe
+C:\Users\serge\OneDrive\Документы\PokerConsole\PokerConsole\bin\Debug\net5.0\PokerConsole.deps.json
+C:\Users\serge\OneDrive\Документы\PokerConsole\PokerConsole\bin\Debug\net5.0\PokerConsole.runtimeconfig.json
+C:\Users\serge\OneDrive\Документы\PokerConsole\PokerConsole\bin\Debug\net5.0\PokerConsole.runtimeconfig.dev.json
+C:\Users\serge\OneDrive\Документы\PokerConsole\PokerConsole\bin\Debug\net5.0\PokerConsole.dll
+C:\Users\serge\OneDrive\Документы\PokerConsole\PokerConsole\bin\Debug\net5.0\ref\PokerConsole.dll
+C:\Users\serge\OneDrive\Документы\PokerConsole\PokerConsole\bin\Debug\net5.0\PokerConsole.pdb
+C:\Users\serge\OneDrive\Документы\PokerConsole\PokerConsole\obj\Debug\net5.0\PokerConsole.csproj.AssemblyReference.cache
+C:\Users\serge\OneDrive\Документы\PokerConsole\PokerConsole\obj\Debug\net5.0\PokerConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serge\OneDrive\Документы\PokerConsole\PokerConsole\obj\Debug\net5.0\PokerConsole.AssemblyInfoInputs.cache
+C:\Users\serge\OneDrive\Документы\PokerConsole\PokerConsole\obj\Debug\net5.0\PokerConsole.AssemblyInfo.cs
+C:\Users\serge\OneDrive\Документы\PokerConsole\PokerConsole\obj\Debug\net5.0\PokerConsole.csproj.CoreCompileInputs.cache
+C:\Users\serge\OneDrive\Документы\PokerConsole\PokerConsole\obj\Debug\net5.0\PokerConsole.dll
+C:\Users\serge\OneDrive\Документы\PokerConsole\PokerConsole\obj\Debug\net5.0\ref\PokerConsole.dll
+C:\Users\serge\OneDrive\Документы\PokerConsole\PokerConsole\obj\Debug\net5.0\PokerConsole.pdb
+C:\Users\serge\OneDrive\Документы\PokerConsole\PokerConsole\obj\Debug\net5.0\PokerConsole.genruntimeconfig.cache
